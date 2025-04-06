@@ -1,6 +1,6 @@
 # 🎮 Hector Gewehr // DESENVOLVEDOR WEB FRONT END ⭐⭐⭐⭐⭐
 
-**`Desenvolvedora FRONT END`**
+**`Desenvolvedor FRONT END`**
 
 Me chamo Hector Gewehr Reinheimer, tenho 32 anos e sou natural de Campo Grande MS/BR. Concluí o ensino médio no em escolas Publicas, com o curso técnico em informática. Atualmente, estou cursando Cursos de Front END e Back END, Python e outros. Tenho muita curiosidade e sou apaixonado pela area de tecnologia.
 <p align="left">
